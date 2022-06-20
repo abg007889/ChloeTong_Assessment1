@@ -21,6 +21,9 @@
 			border: 1px solid #dee2e6 !important;
 		}
 		}
+		.de-row:hover, .fghi-row:hover, .egi-padding:hover{
+			background-color: #d8d8d8;
+		}
 		.vdo-p{
 			padding: 16px 24px 0;
 		}
